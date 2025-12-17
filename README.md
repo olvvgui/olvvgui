@@ -8,7 +8,7 @@
 
 
 ### ⚙️ &nbsp;Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,mysql,ubuntu,github)](radicalhttps://github.com/olvvgui)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,mysql,linux,github)](radicalhttps://github.com/olvvgui)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
