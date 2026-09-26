@@ -11,21 +11,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,mysql,linux,github)](radicalhttps://github.com/olvvgui)
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<table>
-  <tr>
-    <td align="center">
-      <a href="radicalhttps://github.com/olvvgui">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olvvgui&theme=radical" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="radicalhttps://github.com/olvvgui">
-        <img src="https://github-readme-stats.vercel.app/api?username=olvvgui&show_icons=true&theme=radical" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
